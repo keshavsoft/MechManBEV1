@@ -1,0 +1,24 @@
+[
+  {
+    "BuyerName": "keshav",
+    "BuyerAddress": "",
+    "BuyerMobile": "",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-28",
+    "InvoiceStateCode": "37",
+    "pk": 1,
+    "ServerInsertedTimeStamp": "2025-10-28T05:39:00.835Z"
+  },
+  {
+    "BuyerName": "keshav",
+    "BuyerAddress": "",
+    "BuyerMobile": "",
+    "BuyerGST": "",
+    "InvoiceNo": "",
+    "InvoiceDate": "2025-10-28",
+    "InvoiceStateCode": "37",
+    "pk": 2,
+    "ServerInsertedTimeStamp": "2025-10-28T06:37:05.168Z"
+  }
+]

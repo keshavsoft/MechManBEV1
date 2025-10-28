@@ -1,0 +1,1 @@
+GET http://localhost:9016/SV1/1_BillItemsTable/Read/SingleColumn/{Column name}
