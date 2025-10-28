@@ -1,8 +1,8 @@
 import ConfigJson from "../../../../../../../../Config.json" with {type: 'json'};
-const jVarCommonFolderName = ConfigJson.PublicFolder.BillFolderName;
+const jVarCommonFolderName = ConfigJson.PublicFolder.BillFolderWithPath;
 
 let StartFunc = ({ inResponse }) => {
-    jFLocalAddUrlParams({ inSuccessUrl: `../../Bill/${jVarCommonFolderName}/billsAdd.html` });
+    jFLocalAddUrlParams({ inSuccessUrl: `../../${jVarCommonFolderName}/billsAdd.html` });
 };
 
 const jFLocalAddUrlParams = ({ inSuccessUrl }) => {
